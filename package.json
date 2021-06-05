@@ -1,0 +1,16 @@
+{
+  "name": "web-rtc-chat-app",
+  "version": "1.0.0",
+  "description": "This is a video chat app using web-rtc",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nithen-pv",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "socket.io": "^4.1.2"
+  }
+}
